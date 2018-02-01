@@ -107,7 +107,7 @@ class TreeNode extends React.Component {
                 {children.map((child, index) => <TreeNode {...this._eventBubbles()}
                                                           animations={animations}
                                                           decorators={propDecorators}
-                                                          key={child.id || index}
+                                                          key={index}
                                                           node={child}
                                                           style={style}/>
                 )}
