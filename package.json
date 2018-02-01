@@ -1,6 +1,6 @@
 {
-  "name": "react-treebeard",
-  "version": "2.1.0",
+  "name": "mef-react-treebeard",
+  "version": "2.1.1",
   "description": "React Tree View Component",
   "main": "index.js",
   "scripts": {
